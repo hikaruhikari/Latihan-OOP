@@ -14,5 +14,5 @@ Buatlah package dan modul dengan struktur seperti berikut:
 
 Halo nama saya Faiq Zainal Ridho, kali ini saya akan membahas cara membuat class dengan file terpisah. Tanpa basa basi mari kita bahas:
 
-(Tugas masih diproses Pak, karena baterai laptop saya habis)
+1. buat file data
 
