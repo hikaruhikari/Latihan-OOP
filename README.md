@@ -1,5 +1,3 @@
-![time](https://github.com/user-attachments/assets/33f74fa2-6a0a-4135-8e6e-a84aa94183aa)# Latihan-OOP
-
 Latihan OOP
 
 Buatlah package dan modul dengan struktur seperti berikut:
