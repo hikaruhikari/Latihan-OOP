@@ -1,4 +1,4 @@
-# Latihan-OOP
+![time](https://github.com/user-attachments/assets/33f74fa2-6a0a-4135-8e6e-a84aa94183aa)# Latihan-OOP
 
 Latihan OOP
 
@@ -50,10 +50,20 @@ Halo nama saya Faiq Zainal Ridho, kali ini saya akan membahas cara membuat class
 
 9. berikut hasilnya
 
+![its](https://github.com/user-attachments/assets/7201f04d-3bdc-4fac-9077-a058d605afc8)
+
+![show](https://github.com/user-attachments/assets/950e2d96-d17a-4ac4-a0df-ce5a073d9b22)
+
+![time](https://github.com/user-attachments/assets/bc445237-a71c-441a-aa24-6743ad4fec96)
+
+![!!!](https://github.com/user-attachments/assets/a793ec16-1a3d-4459-951f-6180c6b6e837)
+
 10. berikut flowchartnya (masih tidak ada yang diubah)
 
 ![praktikum6](https://github.com/user-attachments/assets/5720e3d6-275b-4e09-89d6-dbc6a3dc3440)
 
 11. berikut diagramnya
+
+![Latihan OOP](https://github.com/user-attachments/assets/f9d25c5f-2802-4c67-afcb-3be2663a1c23)
 
 inilah tugas yang saya kerjakan dan jelaskan, mohon maaf atas keterlambatannya diakibatkan masalah pada vcs dan terima kasih
